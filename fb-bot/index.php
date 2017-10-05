@@ -8,4 +8,7 @@ if(isset($_REQUEST['hub_challenge']))
 
 if($token=="123")
 {
- echo $challenge
+ echo $challenge;
+}
+
+
